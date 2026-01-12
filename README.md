@@ -1,10 +1,10 @@
 # Workforce-Attendance-Automation-System
 
-What the project is about
+                                                                 What the project is about
 
 The goal of the project is to measure how effective different marketing campaigns are and help businesses understand where their marketing budget performs best. It analyzes customer behavior, campaign reach, spending, and purchase outcomes to generate actionable insights.
 
-What problem it solves
+                                                                  What problem it solves
 
 Marketing teams often run multiple campaigns across channels but struggle to answer questions like:
 
@@ -20,7 +20,7 @@ This project answers those questions using data.
 
 What was done in the project
 
-Data Preparation
+                                                                             Data Preparation
 
 Cleaned and processed raw marketing campaign data
 
@@ -56,7 +56,7 @@ Visualization & Reporting (Power BI)
 
 Built an interactive Power BI dashboard
 
-Visualized KPIs such as:
+                                                                       Visualized KPIs such as:
 
 Campaign-wise performance
 
@@ -68,7 +68,7 @@ Customer response patterns
 
 Enabled easy, non-technical interpretation for stakeholders
 
-Tools & Technologies Used
+                                                                     Tools & Technologies Used
 
 Python (Pandas, NumPy, Matplotlib/Seaborn)
 
@@ -78,7 +78,7 @@ Microsoft Power BI
 
 CSV & Excel datasets
 
-Key outcomes
+                                                                           Key outcomes
 
 Clear comparison of marketing campaign performance
 
